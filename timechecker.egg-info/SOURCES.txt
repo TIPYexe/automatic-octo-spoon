@@ -1,0 +1,10 @@
+TipyVoda_timechecker
+src/__init__.py
+src/logic.py
+src/main.py
+timechecker.egg-info/PKG-INFO
+timechecker.egg-info/SOURCES.txt
+timechecker.egg-info/dependency_links.txt
+timechecker.egg-info/entry_points.txt
+timechecker.egg-info/requires.txt
+timechecker.egg-info/top_level.txt
